@@ -1,0 +1,26 @@
+.navdiv{
+    margin-top: 2em;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+.card-container{
+    padding-top: 5em;
+    margin-top: 5em;
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    row-gap: 2em;
+    width: 90%;
+    margin: 0 auto;
+}
+.card{
+    width: 30%;
+    text-align: center;
+    
+}
+.card img{
+    width: 50%;
+    height: 70%;
+}
